@@ -48,33 +48,4 @@ export class SearchComponent implements OnInit {
     }
     
   }
-
-  /*
-  compensations: {intern: {…}, employee: {…}}
-context: {signaled: null}
-locationName: "Bogotá, Colombia"
-name: "Andres Cortes"
-openTo: (5) ["advising", "internships", "full-time-employment", "part-time-employment", "mentoring"]
-picture: "https://starrgate.s3.amazonaws.com:443/users/d07f786eafe665eacf2f25f6649c871349807043/profile_fmHzcMq.jpg"
-professionalHeadline: "Developer"
-remoter: true
-skills: Array(5)
-0:
-name: "Project Management"
-weight: 0
-__proto__: Object
-1: {name: "Customer Service", weight: 0}
-2: {name: "Python", weight: 0}
-3: {name: "Creativity", weight: 0}
-4: {name: "Leadership", weight: 0}
-length: 5
-__proto__: Array(0)
-subjectId: "35719"
-username: "andrescortes"
-verified: true
-weight: 0
-  
-  
-  */
-
 }
